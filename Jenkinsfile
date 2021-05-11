@@ -7,7 +7,7 @@ pipeline {
         
         stage('Checkout') {
             steps {
-             sh 'https://github.com/VINITHAS06/newrepo.git'
+             sh 'git clone https://github.com/VINITHAS06/newrepo.git'
             }
         }
         
