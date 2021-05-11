@@ -1,0 +1,10 @@
+---
+- name: Download artifact test
+  become_user: devops
+  get_url:
+     url: "{{ artifactory_path }}/1.0.{{ Temp1 }}-SNAPSHOT/registration-1.0.{{ Temp1 }}-SNAPSHOT.war"
+     dest: .
+     url_username: "{{ user_name }}"
+     url_password: "{{ password }}"
+     
+

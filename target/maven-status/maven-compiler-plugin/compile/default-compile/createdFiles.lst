@@ -1,0 +1,6 @@
+devops/Capstone/db/UserDb.class
+devops/Capstone/controllerWithoutDb/UserRegisterController.class
+devops/Capstone/controllerWithoutDb/UserPasswordController.class
+devops/Capstone/model/User.class
+devops/Capstone/controllerWithoutDb/UserLoginController.class
+devops/Capstone/service/UserService.class

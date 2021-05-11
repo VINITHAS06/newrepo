@@ -1,0 +1,5 @@
+---
+# vars file for registration
+user_name: admin
+password: adminadmin
+artifactory_path: http://localhost:5040/artifactory/generic-local/devops/Capstone/registration

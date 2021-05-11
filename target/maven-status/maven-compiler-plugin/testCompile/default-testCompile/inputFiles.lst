@@ -1,0 +1,4 @@
+/home/devops/capstone/capstone1/src/test/java/devops/Capstone/controllerWithoutDb/RegisterTest.java
+/home/devops/capstone/capstone1/src/test/java/devops/Capstone/controllerWithoutDb/ChangePasswordTest.java
+/home/devops/capstone/capstone1/src/test/java/devops/Capstone/controllerWithoutDb/LoginTest.java
+/home/devops/capstone/capstone1/src/test/java/devops/Capstone/service/UserServiceTest.java
